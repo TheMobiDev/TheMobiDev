@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://www.themobidev.org">
-    <img src="./assets/logo.png" width="90"/>
+    <img src="assets/logo.png" width="90"/>
   </a>
 </p>
 
