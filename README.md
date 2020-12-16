@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <a href="https://www.themobidev.org">
-    <img src="assets/logo.png" width="90"/>
+    ![alt text](assets/themobidev-logo.png "Title")
   </a>
 </p>
 
